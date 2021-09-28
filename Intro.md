@@ -30,6 +30,7 @@ Git is a version control software that allows you to collaborate, save, and shar
 
 CLI vs. GUI
 - I will be teaching the CLI way, but this is not the only way. There is github desktop, and a few other tools to use git with (Fork). They are all fine, I just prefer CLI because it's faster, and it's one less tool to learn.
+
 GIT vs. SVN
 - svn is another type of version control, that is an older standard. It is still used, but if you have a good understanding of git, svn will be easy to learn.
 
